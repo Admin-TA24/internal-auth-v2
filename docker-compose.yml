@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "chore: temporary backup of env and employee list for migration"
+git remote add origin https://github.com/DEIN_ACCOUNT/internal-dev-tools.git
+git push -u origin main
